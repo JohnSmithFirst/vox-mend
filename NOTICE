@@ -1,0 +1,10 @@
+VoxMend
+
+The bundled MossFormer2_SE_48K checkpoint is from alibabasglab's
+ClearerVoice-Studio project:
+https://huggingface.co/alibabasglab/MossFormer2_SE_48K
+https://github.com/modelscope/ClearerVoice-Studio
+
+The upstream model card identifies the checkpoint as Apache-2.0 licensed.
+The checkpoint is redistributed unchanged. The scripts in this repository
+are independently maintained for this video enhancement workflow.
